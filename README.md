@@ -13,6 +13,6 @@ Assignments:
 
 | S.no | Assignment | Link |
 |------ |-----------|-------|
-|   1   | python    | https://github.com/Meghana-md/Meghanaudari/blob/e3a4738635ab0a041b78ec35b894c347ec2ff4f7/assignments/Assignment_01.ipynb      |
+|   1   | python    | [assignment] https://github.com/Meghana-md/Meghanaudari/blob/e3a4738635ab0a041b78ec35b894c347ec2ff4f7/assignments/Assignment_01.ipynb      |
 |       |           |       | 
 |       |           |       |
