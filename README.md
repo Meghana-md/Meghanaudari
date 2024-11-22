@@ -8,10 +8,5 @@ Introdution to AI
  [Google](https://www.google.com/)
 
 | S.no | Assignment | Link |
-|   1  | python     |      | 
-|      |            |      |
-|      |            |
-|
-|
-|
+|------ |-----------|-------|
 |
