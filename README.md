@@ -9,4 +9,6 @@ Introdution to AI
 
 | S.no | Assignment | Link |
 |------ |-----------|-------|
-|
+|   1   | python    |       |
+|       |           |       | 
+|       |           |       |
